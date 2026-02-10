@@ -21,7 +21,7 @@ This project serves as a personal academic resource for reviewing and organizing
 
 ## Usage
 
-You are welcome to view, download, and study these notes for educational purposes. If you use or reference this material, please provide appropriate credit.
+You are welcome to view, download, and study these notes for educational purposes. If you use or reference this material, please provide appropriate credit. If you would like the .md file please message dph5674@psu.edu.
 
 ## Credits
 
